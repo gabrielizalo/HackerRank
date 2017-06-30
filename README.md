@@ -1,2 +1,2 @@
 # HackerRank
-My personal exercises of HackerRank
+My personal solutions to HackerRank problems. 
