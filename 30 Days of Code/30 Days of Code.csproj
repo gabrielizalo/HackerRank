@@ -74,6 +74,7 @@
     <Compile Include="16 Exceptions - String to Integer.cs" />
     <Compile Include="17 More Exceptions.cs" />
     <Compile Include="18 Queues and Stacks.cs" />
+    <Compile Include="19 Interfaces.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

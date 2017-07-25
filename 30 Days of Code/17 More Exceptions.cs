@@ -14,7 +14,7 @@ namespace _30_Days_of_Code
   /// <summary>
   /// The calculator.
   /// </summary>
-  public class Calculator
+  public partial class Calculator
   {
     /// <summary>
     /// The power.
