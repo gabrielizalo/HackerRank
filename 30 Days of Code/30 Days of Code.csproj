@@ -75,6 +75,8 @@
     <Compile Include="17 More Exceptions.cs" />
     <Compile Include="18 Queues and Stacks.cs" />
     <Compile Include="19 Interfaces.cs" />
+    <Compile Include="20 Sorting.cs" />
+    <Compile Include="21 Generics.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -32,7 +32,7 @@
   /// </summary>
   public partial class Solution
   {
-    static void Main(string[] args)
+    static void Main19(string[] args)
     {
       int n = Int32.Parse(Console.ReadLine());
       AdvancedArithmetic myCalculator = new Calculator();
