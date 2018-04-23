@@ -47,9 +47,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>Solution</StartupObject>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -77,6 +74,7 @@
     <Compile Include="19 Interfaces.cs" />
     <Compile Include="20 Sorting.cs" />
     <Compile Include="21 Generics.cs" />
+    <Compile Include="26 Nested Logic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

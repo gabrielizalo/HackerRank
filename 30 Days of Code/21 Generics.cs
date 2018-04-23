@@ -1,4 +1,4 @@
-﻿namespace _30_Days_of_Code
+namespace _30_Days_of_Code
 {
   using System;
 
@@ -19,7 +19,7 @@
     }
 
 
-    static void Main(string[] args)
+    static void Main21(string[] args)
     {
       int n = Convert.ToInt32(Console.ReadLine());
       int[] intArray = new int[n];
