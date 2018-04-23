@@ -1,4 +1,4 @@
-﻿// --------------------------------------------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------------------------
 // <copyright file="08 Heaps - Find the Running Median.cs" company="Axioma X">
 //   Created by Gabriel Porras
 // </copyright>
@@ -23,7 +23,7 @@ namespace Cracking_The_Coding_Interview._01_Data_Structures
     /// <param name="args">
     /// The args.
     /// </param>
-    public static void Main ( string[] args )
+    public static void DataStructuresMain ( string[] args )
     {
       // Init
       int n            = Convert.ToInt32 ( Console.ReadLine () );
