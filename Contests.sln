@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contests", "Contests\Week of Code 37\Contests.csproj", "{16DB3B8B-5ED0-466D-8F7E-013C64F6A373}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week of Code 37", "Contests\Week of Code 37.csproj", "{16DB3B8B-5ED0-466D-8F7E-013C64F6A373}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
