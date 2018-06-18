@@ -1,0 +1,3 @@
+SELECT MAX(POPULATION) - MIN(POPULATION) AS DensityDifference
+  FROM CITY
+ ;
