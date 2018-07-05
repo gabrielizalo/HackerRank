@@ -1,0 +1,3 @@
+SELECT CAST ( CEILING ( AVG (CAST(Salary AS FLOAT)) - AVG ( CAST ( REPLACE ( CAST(Salary AS VARCHAR(20)), '0', '' )  AS FLOAT ) ) ) AS INT) AS AvgSalaries
+  FROM EMPLOYEES
+ ;
