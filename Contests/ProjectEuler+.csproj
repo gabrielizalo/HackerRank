@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D2DBD847-71FA-418E-BA48-FBDB56779966}</ProjectGuid>
+    <ProjectGuid>{C80D27DD-524D-4FA1-9E5D-154680F6A369}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ContestWorldCodeSprint37</RootNamespace>
@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="World CodeSprint 13\01 Find The Absent Students.cs" />
+    <Compile Include="ProjectEuler+\001 Multiples of 3 and 5.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

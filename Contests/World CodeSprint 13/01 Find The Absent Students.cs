@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -29,7 +29,7 @@ class FindTheAbsentStudents
     return absentStudents.ToArray();
   }
 
-  static void class Main(string[] args)
+  static void Main(string[] args)
   {
     int n = Convert.ToInt32(Console.ReadLine());
     int[] a = Array.ConvertAll(Console.ReadLine().Split(' '), aTemp => Convert.ToInt32(aTemp));
