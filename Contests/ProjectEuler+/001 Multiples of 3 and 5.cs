@@ -2,9 +2,9 @@ using System;
 
 // ReSharper disable once ArrangeTypeModifiers
 // ReSharper disable once CheckNamespace
-class Solution
+class MultiplesOf3And5
 {
-  static void Main(String[] args)
+  static void MultiplesOf3And5Main(String[] args)
   {
     int t = Convert.ToInt32(Console.ReadLine());
     for (int a0 = 0; a0 < t; a0++)
