@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "World CodeSprint 13", "Cont
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler+", "Contests\ProjectEuler+.csproj", "{C80D27DD-524D-4FA1-9E5D-154680F6A369}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HourRank 29", "Contests\HourRank 29\HourRank 29.csproj", "{647A7A8A-297F-4126-8DC1-979678DC8BF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C80D27DD-524D-4FA1-9E5D-154680F6A369}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C80D27DD-524D-4FA1-9E5D-154680F6A369}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C80D27DD-524D-4FA1-9E5D-154680F6A369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{647A7A8A-297F-4126-8DC1-979678DC8BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647A7A8A-297F-4126-8DC1-979678DC8BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647A7A8A-297F-4126-8DC1-979678DC8BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647A7A8A-297F-4126-8DC1-979678DC8BF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
