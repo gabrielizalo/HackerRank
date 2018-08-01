@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ProjectEuler+\003 Largest Prime Factor 5.cs" />
+    <Compile Include="ProjectEuler+\003 Largest Prime Factor 4.cs" />
+    <Compile Include="ProjectEuler+\003 Largest Prime Factor 3.cs" />
+    <Compile Include="ProjectEuler+\003 Largest Prime Factor 1.cs" />
+    <Compile Include="ProjectEuler+\003 Largest Prime Factor 2.cs" />
     <Compile Include="ProjectEuler+\002 Even Fibonacci Numbers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ProjectEuler+\001 Multiples of 3 and 5.cs" />
