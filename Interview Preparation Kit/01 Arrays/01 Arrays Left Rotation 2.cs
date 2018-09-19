@@ -26,7 +26,7 @@ class ArraysLeftRotation2
     return finalArray;
   }
 
-  static void Main(string[] args)
+  static void MainArraysLeftRotation2(string[] args)
   {
     TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
